@@ -38,4 +38,5 @@ setTimeout(() => {
     countdown.innerText = "Happy Independence Day";
     countdown.style.color = "#ff8c1a";
 }, 12000);
+
 document.body.appendChild(countdown);
